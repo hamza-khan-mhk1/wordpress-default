@@ -20,7 +20,7 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'wp-app' );
+define( 'DB_NAME', 'wpapp' );
 
 /** Database username */
 define( 'DB_USER', 'ict' );
@@ -29,7 +29,7 @@ define( 'DB_USER', 'ict' );
 define( 'DB_PASSWORD', 'Testing@12345' );
 
 /** Database hostname */
-define( 'DB_HOST', 'localhost' );
+define( 'DB_HOST', 'mysqldbtesting.mysql.database.azure.com' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
