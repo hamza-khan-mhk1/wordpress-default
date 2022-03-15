@@ -23,7 +23,7 @@
 define( 'DB_NAME', 'wpapp' );
 
 /** Database username */
-define( 'DB_USER', 'ict' );
+define( 'DB_USER', 'ict@mysqldbtesting' );
 
 /** Database password */
 define( 'DB_PASSWORD', 'Testing@12345' );
